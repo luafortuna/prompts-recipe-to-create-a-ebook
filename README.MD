@@ -48,8 +48,7 @@ Bing：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | Crie uma imagem de uma mulher de negócios feliz e se sentindo livre por ter ganhado    | 
-|    muito dinheiro com investimentos financeiros em um caminho de tijolos de ouro, em tamanho a4 |
+| título | Crie uma imagem de uma mulher de negócios feliz e se sentindo livre por ter ganhado muito dinheiro com investimentos financeiros em um caminho de tijolos de ouro, em tamanho a4 |
 
 ## ✨ Features
 
