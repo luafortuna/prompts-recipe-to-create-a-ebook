@@ -25,7 +25,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/luafortuna/prompts-recipe-to-create-a-ebook/blob/main/output/e-book%20-%20Investimentos%20em%20Renda%20Fixa%20para%20Iniciantes.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -48,7 +48,8 @@ Bing：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | Crie uma imagem de uma mulher de negócios feliz e se sentindo livre por ter ganhado    | 
+|    muito dinheiro com investimentos financeiros em um caminho de tijolos de ouro, em tamanho a4 |
 
 ## ✨ Features
 
